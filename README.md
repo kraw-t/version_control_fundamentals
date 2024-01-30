@@ -3,6 +3,7 @@
 ## About this repository
 
 * version管理課題の作業リポジトリです
+* リモートリポジトリはGithubにあります
 
 ## About me
 
