@@ -10,3 +10,7 @@ version管理課題のメインファイル
 ## リモートリポジトリ
 
 * https://github.com/kraw-t/version_control_fundamentals/ (予定)
+
+## 余計な変更
+
+* この後削除される余計な変更を入れる
